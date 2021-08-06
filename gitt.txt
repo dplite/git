@@ -1,4 +1,4 @@
 Hi there
 asd
 Thrd commit
-branch check commit
+branch check commit removed by using reset HEAD~
